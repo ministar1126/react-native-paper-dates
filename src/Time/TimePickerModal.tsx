@@ -192,7 +192,7 @@ const styles = StyleSheet.create({
   keyboardView: {
     justifyContent: 'center',
     alignItems: 'center',
-    flex: 1,
+    // flex: 1,
   },
   modalBackground: {
     flex: 1,
